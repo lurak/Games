@@ -1,2 +1,2 @@
 # Games
-Different gamed
+Different games
